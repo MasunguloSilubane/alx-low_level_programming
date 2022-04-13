@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * _islower - Check Holberton
  * @c: An input character
  * alphabet in lowercase 10 times
  * Return: 1 if is lowercase or 0 if is uppercase
