@@ -1,3 +1,7 @@
-!<arch>
-libmy.a*.o/     0           0     0     644     8         `
-!<arch>
+gcc -c 0-memset.c
+gcc -c  0-strcat.c
+gcc -c 9-strcpy.c
+gcc -c 6-abs.c
+gcc -c 5-strstr.c
+gcc -c 4-strpbrk.c
+gcc -c  4-isalpha.c
